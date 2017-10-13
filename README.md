@@ -13,8 +13,7 @@ Web Application Development
 (In this assignment we learned all about the Element Id, and labeling the variables for the program.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://dshwake.github.io/lesson4_javascript1/.)
 
 ### Lessons Learned in the Assignment:
 1. (Learn how to use ElementId.)
