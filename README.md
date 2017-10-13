@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Daniel Shwake)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we learned all about the Element Id, and labeling the variables for the program.)
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learn how to use ElementId.)
+2. (Learn how to label variables.)
+3. (Learn how to commit using certain variabes.)
 
